@@ -1,0 +1,9 @@
+[INFO] [11:35:01.129] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.<clinit>:32 --> load driver class: com.mysql.jdbc.Driver@29702350
+[INFO] [11:35:01.165] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.<clinit>:32 --> load driver class: oracle.jdbc.driver.OracleDriver@355db99
+[INFO] [11:35:01.194] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.<clinit>:32 --> load driver class: org.postgresql.Driver@1961c052
+[INFO] [11:35:01.358] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.<clinit>:32 --> load driver class: SQLServerDriver:2
+[INFO] [11:35:01.386] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.<clinit>:32 --> load driver class: org.sqlite.JDBC@fae513d
+[INFO] [11:35:01.387] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:113 --> getConnectionUrlWithSchema, connection url: jdbc:mysql://120.79.213.78:3306/ego?useUnicode=true&useSSL=false&characterEncoding=utf8&tinyInt1isBit=false
+[INFO] [11:35:01.388] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getTableNames:55 --> getTableNames, connection url: jdbc:mysql://120.79.213.78:3306/ego?useUnicode=true&useSSL=false&characterEncoding=utf8&tinyInt1isBit=false
+[INFO] [11:35:01.388] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnectionUrlWithSchema:113 --> getConnectionUrlWithSchema, connection url: jdbc:mysql://120.79.213.78:3306/ego?useUnicode=true&useSSL=false&characterEncoding=utf8&tinyInt1isBit=false
+[INFO] [11:35:01.864] [JavaFX Application Thread] [] com.zzg.mybatis.generator.util.DbUtil.getConnection:49 --> getConnection, connection url: com.mysql.jdbc.JDBC4Connection@7b592f13
